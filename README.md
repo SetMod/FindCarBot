@@ -1,3 +1,3 @@
 # FindCarBot
 
-FInd any car you want!
+Find any car you want!
